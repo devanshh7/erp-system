@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is a backend for the ERP Sysytem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanshh7/ERP-system.git"
+  },
+  "keywords": [
+    "backend",
+    "erp"
+  ],
+  "author": "Devansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devanshh7/ERP-system/issues"
+  },
+  "homepage": "https://github.com/devanshh7/ERP-system#readme"
+}
