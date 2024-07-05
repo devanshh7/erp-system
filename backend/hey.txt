@@ -1,0 +1,1 @@
+hello from node, this file is made from file system function
